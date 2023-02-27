@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/FhdPf1r.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Prioritization Report</h1>
+<h1>Prioritization Report using TruRisk Mode</h1>
 This tutorial will show you how to do VMDR Prioritization Report using TruRisk Mode.<br />
 
 
